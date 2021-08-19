@@ -1,0 +1,1565 @@
+Test 0
+
+Test 1
+1 Penny
+
+Test 2
+2 Pennies
+
+Test 3
+3 Pennies
+
+Test 4
+4 Pennies
+
+Test 5
+1 Nickel
+
+Test 6
+1 Nickel
+1 Penny
+
+Test 7
+1 Nickel
+2 Pennies
+
+Test 8
+1 Nickel
+3 Pennies
+
+Test 9
+1 Nickel
+4 Pennies
+
+Test 10
+1 Dime
+
+Test 11
+1 Dime
+1 Penny
+
+Test 12
+1 Dime
+2 Pennies
+
+Test 13
+1 Dime
+3 Pennies
+
+Test 14
+1 Dime
+4 Pennies
+
+Test 15
+1 Dime
+1 Nickel
+
+Test 16
+1 Dime
+1 Nickel
+1 Penny
+
+Test 17
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 18
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 19
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 20
+2 Dimes
+
+Test 21
+2 Dimes
+1 Penny
+
+Test 22
+2 Dimes
+2 Pennies
+
+Test 23
+2 Dimes
+3 Pennies
+
+Test 24
+2 Dimes
+4 Pennies
+
+Test 25
+1 Quarter
+
+Test 26
+1 Quarter
+1 Penny
+
+Test 27
+1 Quarter
+2 Pennies
+
+Test 28
+1 Quarter
+3 Pennies
+
+Test 29
+1 Quarter
+4 Pennies
+
+Test 30
+1 Quarter
+1 Nickel
+
+Test 31
+1 Quarter
+1 Nickel
+1 Penny
+
+Test 32
+1 Quarter
+1 Nickel
+2 Pennies
+
+Test 33
+1 Quarter
+1 Nickel
+3 Pennies
+
+Test 34
+1 Quarter
+1 Nickel
+4 Pennies
+
+Test 35
+1 Quarter
+1 Dime
+
+Test 36
+1 Quarter
+1 Dime
+1 Penny
+
+Test 37
+1 Quarter
+1 Dime
+2 Pennies
+
+Test 38
+1 Quarter
+1 Dime
+3 Pennies
+
+Test 39
+1 Quarter
+1 Dime
+4 Pennies
+
+Test 40
+1 Quarter
+1 Dime
+1 Nickel
+
+Test 41
+1 Quarter
+1 Dime
+1 Nickel
+1 Penny
+
+Test 42
+1 Quarter
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 43
+1 Quarter
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 44
+1 Quarter
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 45
+1 Quarter
+2 Dimes
+
+Test 46
+1 Quarter
+2 Dimes
+1 Penny
+
+Test 47
+1 Quarter
+2 Dimes
+2 Pennies
+
+Test 48
+1 Quarter
+2 Dimes
+3 Pennies
+
+Test 49
+1 Quarter
+2 Dimes
+4 Pennies
+
+Test 50
+2 Quarters
+
+Test 51
+2 Quarters
+1 Penny
+
+Test 52
+2 Quarters
+2 Pennies
+
+Test 53
+2 Quarters
+3 Pennies
+
+Test 54
+2 Quarters
+4 Pennies
+
+Test 55
+2 Quarters
+1 Nickel
+
+Test 56
+2 Quarters
+1 Nickel
+1 Penny
+
+Test 57
+2 Quarters
+1 Nickel
+2 Pennies
+
+Test 58
+2 Quarters
+1 Nickel
+3 Pennies
+
+Test 59
+2 Quarters
+1 Nickel
+4 Pennies
+
+Test 60
+2 Quarters
+1 Dime
+
+Test 61
+2 Quarters
+1 Dime
+1 Penny
+
+Test 62
+2 Quarters
+1 Dime
+2 Pennies
+
+Test 63
+2 Quarters
+1 Dime
+3 Pennies
+
+Test 64
+2 Quarters
+1 Dime
+4 Pennies
+
+Test 65
+2 Quarters
+1 Dime
+1 Nickel
+
+Test 66
+2 Quarters
+1 Dime
+1 Nickel
+1 Penny
+
+Test 67
+2 Quarters
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 68
+2 Quarters
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 69
+2 Quarters
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 70
+2 Quarters
+2 Dimes
+
+Test 71
+2 Quarters
+2 Dimes
+1 Penny
+
+Test 72
+2 Quarters
+2 Dimes
+2 Pennies
+
+Test 73
+2 Quarters
+2 Dimes
+3 Pennies
+
+Test 74
+2 Quarters
+2 Dimes
+4 Pennies
+
+Test 75
+3 Quarters
+
+Test 76
+3 Quarters
+1 Penny
+
+Test 77
+3 Quarters
+2 Pennies
+
+Test 78
+3 Quarters
+3 Pennies
+
+Test 79
+3 Quarters
+4 Pennies
+
+Test 80
+3 Quarters
+1 Nickel
+
+Test 81
+3 Quarters
+1 Nickel
+1 Penny
+
+Test 82
+3 Quarters
+1 Nickel
+2 Pennies
+
+Test 83
+3 Quarters
+1 Nickel
+3 Pennies
+
+Test 84
+3 Quarters
+1 Nickel
+4 Pennies
+
+Test 85
+3 Quarters
+1 Dime
+
+Test 86
+3 Quarters
+1 Dime
+1 Penny
+
+Test 87
+3 Quarters
+1 Dime
+2 Pennies
+
+Test 88
+3 Quarters
+1 Dime
+3 Pennies
+
+Test 89
+3 Quarters
+1 Dime
+4 Pennies
+
+Test 90
+3 Quarters
+1 Dime
+1 Nickel
+
+Test 91
+3 Quarters
+1 Dime
+1 Nickel
+1 Penny
+
+Test 92
+3 Quarters
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 93
+3 Quarters
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 94
+3 Quarters
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 95
+3 Quarters
+2 Dimes
+
+Test 96
+3 Quarters
+2 Dimes
+1 Penny
+
+Test 97
+3 Quarters
+2 Dimes
+2 Pennies
+
+Test 98
+3 Quarters
+2 Dimes
+3 Pennies
+
+Test 99
+3 Quarters
+2 Dimes
+4 Pennies
+
+Test 100
+1 Dollar
+
+Test 101
+1 Dollar
+1 Penny
+
+Test 102
+1 Dollar
+2 Pennies
+
+Test 103
+1 Dollar
+3 Pennies
+
+Test 104
+1 Dollar
+4 Pennies
+
+Test 105
+1 Dollar
+1 Nickel
+
+Test 106
+1 Dollar
+1 Nickel
+1 Penny
+
+Test 107
+1 Dollar
+1 Nickel
+2 Pennies
+
+Test 108
+1 Dollar
+1 Nickel
+3 Pennies
+
+Test 109
+1 Dollar
+1 Nickel
+4 Pennies
+
+Test 110
+1 Dollar
+1 Dime
+
+Test 111
+1 Dollar
+1 Dime
+1 Penny
+
+Test 112
+1 Dollar
+1 Dime
+2 Pennies
+
+Test 113
+1 Dollar
+1 Dime
+3 Pennies
+
+Test 114
+1 Dollar
+1 Dime
+4 Pennies
+
+Test 115
+1 Dollar
+1 Dime
+1 Nickel
+
+Test 116
+1 Dollar
+1 Dime
+1 Nickel
+1 Penny
+
+Test 117
+1 Dollar
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 118
+1 Dollar
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 119
+1 Dollar
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 120
+1 Dollar
+2 Dimes
+
+Test 121
+1 Dollar
+2 Dimes
+1 Penny
+
+Test 122
+1 Dollar
+2 Dimes
+2 Pennies
+
+Test 123
+1 Dollar
+2 Dimes
+3 Pennies
+
+Test 124
+1 Dollar
+2 Dimes
+4 Pennies
+
+Test 125
+1 Dollar
+1 Quarter
+
+Test 126
+1 Dollar
+1 Quarter
+1 Penny
+
+Test 127
+1 Dollar
+1 Quarter
+2 Pennies
+
+Test 128
+1 Dollar
+1 Quarter
+3 Pennies
+
+Test 129
+1 Dollar
+1 Quarter
+4 Pennies
+
+Test 130
+1 Dollar
+1 Quarter
+1 Nickel
+
+Test 131
+1 Dollar
+1 Quarter
+1 Nickel
+1 Penny
+
+Test 132
+1 Dollar
+1 Quarter
+1 Nickel
+2 Pennies
+
+Test 133
+1 Dollar
+1 Quarter
+1 Nickel
+3 Pennies
+
+Test 134
+1 Dollar
+1 Quarter
+1 Nickel
+4 Pennies
+
+Test 135
+1 Dollar
+1 Quarter
+1 Dime
+
+Test 136
+1 Dollar
+1 Quarter
+1 Dime
+1 Penny
+
+Test 137
+1 Dollar
+1 Quarter
+1 Dime
+2 Pennies
+
+Test 138
+1 Dollar
+1 Quarter
+1 Dime
+3 Pennies
+
+Test 139
+1 Dollar
+1 Quarter
+1 Dime
+4 Pennies
+
+Test 140
+1 Dollar
+1 Quarter
+1 Dime
+1 Nickel
+
+Test 141
+1 Dollar
+1 Quarter
+1 Dime
+1 Nickel
+1 Penny
+
+Test 142
+1 Dollar
+1 Quarter
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 143
+1 Dollar
+1 Quarter
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 144
+1 Dollar
+1 Quarter
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 145
+1 Dollar
+1 Quarter
+2 Dimes
+
+Test 146
+1 Dollar
+1 Quarter
+2 Dimes
+1 Penny
+
+Test 147
+1 Dollar
+1 Quarter
+2 Dimes
+2 Pennies
+
+Test 148
+1 Dollar
+1 Quarter
+2 Dimes
+3 Pennies
+
+Test 149
+1 Dollar
+1 Quarter
+2 Dimes
+4 Pennies
+
+Test 150
+1 Dollar
+2 Quarters
+
+Test 151
+1 Dollar
+2 Quarters
+1 Penny
+
+Test 152
+1 Dollar
+2 Quarters
+2 Pennies
+
+Test 153
+1 Dollar
+2 Quarters
+3 Pennies
+
+Test 154
+1 Dollar
+2 Quarters
+4 Pennies
+
+Test 155
+1 Dollar
+2 Quarters
+1 Nickel
+
+Test 156
+1 Dollar
+2 Quarters
+1 Nickel
+1 Penny
+
+Test 157
+1 Dollar
+2 Quarters
+1 Nickel
+2 Pennies
+
+Test 158
+1 Dollar
+2 Quarters
+1 Nickel
+3 Pennies
+
+Test 159
+1 Dollar
+2 Quarters
+1 Nickel
+4 Pennies
+
+Test 160
+1 Dollar
+2 Quarters
+1 Dime
+
+Test 161
+1 Dollar
+2 Quarters
+1 Dime
+1 Penny
+
+Test 162
+1 Dollar
+2 Quarters
+1 Dime
+2 Pennies
+
+Test 163
+1 Dollar
+2 Quarters
+1 Dime
+3 Pennies
+
+Test 164
+1 Dollar
+2 Quarters
+1 Dime
+4 Pennies
+
+Test 165
+1 Dollar
+2 Quarters
+1 Dime
+1 Nickel
+
+Test 166
+1 Dollar
+2 Quarters
+1 Dime
+1 Nickel
+1 Penny
+
+Test 167
+1 Dollar
+2 Quarters
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 168
+1 Dollar
+2 Quarters
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 169
+1 Dollar
+2 Quarters
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 170
+1 Dollar
+2 Quarters
+2 Dimes
+
+Test 171
+1 Dollar
+2 Quarters
+2 Dimes
+1 Penny
+
+Test 172
+1 Dollar
+2 Quarters
+2 Dimes
+2 Pennies
+
+Test 173
+1 Dollar
+2 Quarters
+2 Dimes
+3 Pennies
+
+Test 174
+1 Dollar
+2 Quarters
+2 Dimes
+4 Pennies
+
+Test 175
+1 Dollar
+3 Quarters
+
+Test 176
+1 Dollar
+3 Quarters
+1 Penny
+
+Test 177
+1 Dollar
+3 Quarters
+2 Pennies
+
+Test 178
+1 Dollar
+3 Quarters
+3 Pennies
+
+Test 179
+1 Dollar
+3 Quarters
+4 Pennies
+
+Test 180
+1 Dollar
+3 Quarters
+1 Nickel
+
+Test 181
+1 Dollar
+3 Quarters
+1 Nickel
+1 Penny
+
+Test 182
+1 Dollar
+3 Quarters
+1 Nickel
+2 Pennies
+
+Test 183
+1 Dollar
+3 Quarters
+1 Nickel
+3 Pennies
+
+Test 184
+1 Dollar
+3 Quarters
+1 Nickel
+4 Pennies
+
+Test 185
+1 Dollar
+3 Quarters
+1 Dime
+
+Test 186
+1 Dollar
+3 Quarters
+1 Dime
+1 Penny
+
+Test 187
+1 Dollar
+3 Quarters
+1 Dime
+2 Pennies
+
+Test 188
+1 Dollar
+3 Quarters
+1 Dime
+3 Pennies
+
+Test 189
+1 Dollar
+3 Quarters
+1 Dime
+4 Pennies
+
+Test 190
+1 Dollar
+3 Quarters
+1 Dime
+1 Nickel
+
+Test 191
+1 Dollar
+3 Quarters
+1 Dime
+1 Nickel
+1 Penny
+
+Test 192
+1 Dollar
+3 Quarters
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 193
+1 Dollar
+3 Quarters
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 194
+1 Dollar
+3 Quarters
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 195
+1 Dollar
+3 Quarters
+2 Dimes
+
+Test 196
+1 Dollar
+3 Quarters
+2 Dimes
+1 Penny
+
+Test 197
+1 Dollar
+3 Quarters
+2 Dimes
+2 Pennies
+
+Test 198
+1 Dollar
+3 Quarters
+2 Dimes
+3 Pennies
+
+Test 199
+1 Dollar
+3 Quarters
+2 Dimes
+4 Pennies
+
+Test 200
+2 Dollars
+
+Test 201
+2 Dollars
+1 Penny
+
+Test 202
+2 Dollars
+2 Pennies
+
+Test 203
+2 Dollars
+3 Pennies
+
+Test 204
+2 Dollars
+4 Pennies
+
+Test 205
+2 Dollars
+1 Nickel
+
+Test 206
+2 Dollars
+1 Nickel
+1 Penny
+
+Test 207
+2 Dollars
+1 Nickel
+2 Pennies
+
+Test 208
+2 Dollars
+1 Nickel
+3 Pennies
+
+Test 209
+2 Dollars
+1 Nickel
+4 Pennies
+
+Test 210
+2 Dollars
+1 Dime
+
+Test 211
+2 Dollars
+1 Dime
+1 Penny
+
+Test 212
+2 Dollars
+1 Dime
+2 Pennies
+
+Test 213
+2 Dollars
+1 Dime
+3 Pennies
+
+Test 214
+2 Dollars
+1 Dime
+4 Pennies
+
+Test 215
+2 Dollars
+1 Dime
+1 Nickel
+
+Test 216
+2 Dollars
+1 Dime
+1 Nickel
+1 Penny
+
+Test 217
+2 Dollars
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 218
+2 Dollars
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 219
+2 Dollars
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 220
+2 Dollars
+2 Dimes
+
+Test 221
+2 Dollars
+2 Dimes
+1 Penny
+
+Test 222
+2 Dollars
+2 Dimes
+2 Pennies
+
+Test 223
+2 Dollars
+2 Dimes
+3 Pennies
+
+Test 224
+2 Dollars
+2 Dimes
+4 Pennies
+
+Test 225
+2 Dollars
+1 Quarter
+
+Test 226
+2 Dollars
+1 Quarter
+1 Penny
+
+Test 227
+2 Dollars
+1 Quarter
+2 Pennies
+
+Test 228
+2 Dollars
+1 Quarter
+3 Pennies
+
+Test 229
+2 Dollars
+1 Quarter
+4 Pennies
+
+Test 230
+2 Dollars
+1 Quarter
+1 Nickel
+
+Test 231
+2 Dollars
+1 Quarter
+1 Nickel
+1 Penny
+
+Test 232
+2 Dollars
+1 Quarter
+1 Nickel
+2 Pennies
+
+Test 233
+2 Dollars
+1 Quarter
+1 Nickel
+3 Pennies
+
+Test 234
+2 Dollars
+1 Quarter
+1 Nickel
+4 Pennies
+
+Test 235
+2 Dollars
+1 Quarter
+1 Dime
+
+Test 236
+2 Dollars
+1 Quarter
+1 Dime
+1 Penny
+
+Test 237
+2 Dollars
+1 Quarter
+1 Dime
+2 Pennies
+
+Test 238
+2 Dollars
+1 Quarter
+1 Dime
+3 Pennies
+
+Test 239
+2 Dollars
+1 Quarter
+1 Dime
+4 Pennies
+
+Test 240
+2 Dollars
+1 Quarter
+1 Dime
+1 Nickel
+
+Test 241
+2 Dollars
+1 Quarter
+1 Dime
+1 Nickel
+1 Penny
+
+Test 242
+2 Dollars
+1 Quarter
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 243
+2 Dollars
+1 Quarter
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 244
+2 Dollars
+1 Quarter
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 245
+2 Dollars
+1 Quarter
+2 Dimes
+
+Test 246
+2 Dollars
+1 Quarter
+2 Dimes
+1 Penny
+
+Test 247
+2 Dollars
+1 Quarter
+2 Dimes
+2 Pennies
+
+Test 248
+2 Dollars
+1 Quarter
+2 Dimes
+3 Pennies
+
+Test 249
+2 Dollars
+1 Quarter
+2 Dimes
+4 Pennies
+
+Test 250
+2 Dollars
+2 Quarters
+
+Test 251
+2 Dollars
+2 Quarters
+1 Penny
+
+Test 252
+2 Dollars
+2 Quarters
+2 Pennies
+
+Test 253
+2 Dollars
+2 Quarters
+3 Pennies
+
+Test 254
+2 Dollars
+2 Quarters
+4 Pennies
+
+Test 255
+2 Dollars
+2 Quarters
+1 Nickel
+
+Test 256
+2 Dollars
+2 Quarters
+1 Nickel
+1 Penny
+
+Test 257
+2 Dollars
+2 Quarters
+1 Nickel
+2 Pennies
+
+Test 258
+2 Dollars
+2 Quarters
+1 Nickel
+3 Pennies
+
+Test 259
+2 Dollars
+2 Quarters
+1 Nickel
+4 Pennies
+
+Test 260
+2 Dollars
+2 Quarters
+1 Dime
+
+Test 261
+2 Dollars
+2 Quarters
+1 Dime
+1 Penny
+
+Test 262
+2 Dollars
+2 Quarters
+1 Dime
+2 Pennies
+
+Test 263
+2 Dollars
+2 Quarters
+1 Dime
+3 Pennies
+
+Test 264
+2 Dollars
+2 Quarters
+1 Dime
+4 Pennies
+
+Test 265
+2 Dollars
+2 Quarters
+1 Dime
+1 Nickel
+
+Test 266
+2 Dollars
+2 Quarters
+1 Dime
+1 Nickel
+1 Penny
+
+Test 267
+2 Dollars
+2 Quarters
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 268
+2 Dollars
+2 Quarters
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 269
+2 Dollars
+2 Quarters
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 270
+2 Dollars
+2 Quarters
+2 Dimes
+
+Test 271
+2 Dollars
+2 Quarters
+2 Dimes
+1 Penny
+
+Test 272
+2 Dollars
+2 Quarters
+2 Dimes
+2 Pennies
+
+Test 273
+2 Dollars
+2 Quarters
+2 Dimes
+3 Pennies
+
+Test 274
+2 Dollars
+2 Quarters
+2 Dimes
+4 Pennies
+
+Test 275
+2 Dollars
+3 Quarters
+
+Test 276
+2 Dollars
+3 Quarters
+1 Penny
+
+Test 277
+2 Dollars
+3 Quarters
+2 Pennies
+
+Test 278
+2 Dollars
+3 Quarters
+3 Pennies
+
+Test 279
+2 Dollars
+3 Quarters
+4 Pennies
+
+Test 280
+2 Dollars
+3 Quarters
+1 Nickel
+
+Test 281
+2 Dollars
+3 Quarters
+1 Nickel
+1 Penny
+
+Test 282
+2 Dollars
+3 Quarters
+1 Nickel
+2 Pennies
+
+Test 283
+2 Dollars
+3 Quarters
+1 Nickel
+3 Pennies
+
+Test 284
+2 Dollars
+3 Quarters
+1 Nickel
+4 Pennies
+
+Test 285
+2 Dollars
+3 Quarters
+1 Dime
+
+Test 286
+2 Dollars
+3 Quarters
+1 Dime
+1 Penny
+
+Test 287
+2 Dollars
+3 Quarters
+1 Dime
+2 Pennies
+
+Test 288
+2 Dollars
+3 Quarters
+1 Dime
+3 Pennies
+
+Test 289
+2 Dollars
+3 Quarters
+1 Dime
+4 Pennies
+
+Test 290
+2 Dollars
+3 Quarters
+1 Dime
+1 Nickel
+
+Test 291
+2 Dollars
+3 Quarters
+1 Dime
+1 Nickel
+1 Penny
+
+Test 292
+2 Dollars
+3 Quarters
+1 Dime
+1 Nickel
+2 Pennies
+
+Test 293
+2 Dollars
+3 Quarters
+1 Dime
+1 Nickel
+3 Pennies
+
+Test 294
+2 Dollars
+3 Quarters
+1 Dime
+1 Nickel
+4 Pennies
+
+Test 295
+2 Dollars
+3 Quarters
+2 Dimes
+
+Test 296
+2 Dollars
+3 Quarters
+2 Dimes
+1 Penny
+
+Test 297
+2 Dollars
+3 Quarters
+2 Dimes
+2 Pennies
+
+Test 298
+2 Dollars
+3 Quarters
+2 Dimes
+3 Pennies
+
+Test 299
+2 Dollars
+3 Quarters
+2 Dimes
+4 Pennies
+
